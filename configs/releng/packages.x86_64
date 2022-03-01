@@ -17,6 +17,7 @@ ddrescue
 dhclient
 dhcpcd
 diffutils
+dmidecode
 dmraid
 dnsmasq
 dosfstools
